@@ -28,8 +28,7 @@
 
 | Start Screen | Gameplay |
 |--------------|----------|
-| <img width="786" height="593" alt="StartScreen" src="https://github.com/user-attachments/assets/4951522c-ef13-4761-971f-cc4cc5339353" /> | <img width="948" height="634" alt="Gameplay" src="https://github.com/user-attachments/assets/63882491-52c0-4973-a010-6ad4ebc7ac44" />
-|
+| <img width="786" height="593" alt="StartScreen" src="https://github.com/user-attachments/assets/4951522c-ef13-4761-971f-cc4cc5339353" /> | <img width="948" height="634" alt="Gameplay" src="https://github.com/user-attachments/assets/63882491-52c0-4973-a010-6ad4ebc7ac44" /> |
 
 | Shop Interface | CLI mode |
 |-------------|----------------|
