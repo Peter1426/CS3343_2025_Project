@@ -1,8 +1,39 @@
-# CS3343_2025_Project
-This is a course project from CS3343 at year 2025
--------------------------------------------------
-Balatro-Style Joker Card Game
-A Java-based poker card game inspired by Balatro. Players combine joker cards to modify scoring rules, achieve high scores within limited rounds, and visit the shop between rounds to adjust their deck.
+# 🃏Balatro-Style Joker Card Game
+
+## Project Overview  
+
+*This project was developed by a team of 6 students for **CS3343 Software Engineering Practice** at City University of Hong Kong. It is a Java-based roguelike poker game inspired by *Balatro*, featuring GUI/CLI interfaces, a joker card system, and a shop system. Players combine joker cards to modify scoring rules, achieve high scores within limited rounds, and visit the shop between rounds to adjust their deck.*
+
+### My Role / Contributions:
+- **Role:** Testing Engineer & Assistant Developer  
+- **Testing:** Wrote **1/3 of all test cases** using JUnit (285 test cases in total) for core classes including `AnimatedButton`, `GameWindow`, `Main`, and UI components.
+- **Bug Investigation & Fixing:**  
+  - Fixed joker card logic bugs (e.g., *Ace Master* bonus not affected by multipliers, level 10 completion bug).  
+  - Debugged game logic and UI issues (e.g., *Chaos Joker* incorrect stacking, game window size glitch).
+- **Requirements & Design:**  
+  - Contributed to **use case diagrams** and **use case specifications**.  
+  - Assisted in **code refactoring** (extracted `GameLogicManager` and `DialogManager` from `GameWindow`).
+- **Quality Assurance:**  
+  - Applied **MC/DC coverage** principles and used **EclEmma** for coverage analysis.  
+  - Tracked bugs via **GitHub Issues** with proper labeling and status workflows.
+
+### Technologies Used:
+- **Language:** Java  
+- **Testing:** JUnit 5, EclEmma  
+- **Tools:** Eclipse IDE, Git, GitHub  
+- **GUI:** Java Swing  
+- **Methodology:** Prototype model, Bottom-up testing, MC/DC coverage
+
+### 🎮 Screenshots
+
+| Start Screen | Gameplay |
+|--------------|----------|
+| <img width="786" height="593" alt="StartScreen" src="https://github.com/user-attachments/assets/4951522c-ef13-4761-971f-cc4cc5339353" /> | <img width="948" height="634" alt="Gameplay" src="https://github.com/user-attachments/assets/63882491-52c0-4973-a010-6ad4ebc7ac44" />
+|
+
+| Shop Interface | CLI mode |
+|-------------|----------------|
+| <img width="506" height="493" alt="CardShop" src="https://github.com/user-attachments/assets/2fa76feb-d902-4627-9208-f1e38fe2fefe" /> | <img width="892" height="502" alt="CLImode" src="https://github.com/user-attachments/assets/83168732-99d2-4098-8887-55a2caef986a" /> |
 
 ## Game Rules
 
